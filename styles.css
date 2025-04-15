@@ -71,6 +71,11 @@
     text-decoration: underline;
 }
 
+.falak {
+    position: absolute;
+    bottom: 10px;
+}
+
 
 /* MEDIA QUERIES */
 @media only screen and (max-width: 480px) {
